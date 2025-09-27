@@ -1,0 +1,27 @@
+# Dummy fayllar
+DUMMY*
+
+# Python cache va Jupyter checkpointlar
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Dataset papkalari (kattalik sababli gitga qo‘shilmaydi)
+# dataset_uz/
+datasets/custom_base/logs/
+
+# # Checkpoints (model vaznlari va loglar)
+# checkpoints/
+# *.ckpt
+# *.pt
+# *.pth
+# *.log
+
+# Virtual environment (agar ishlatsangiz)
+.venv/
+env/
+
+# OS tizim fayllari
+.DS_Store
+Thumbs.db
