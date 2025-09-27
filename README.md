@@ -17,9 +17,10 @@
 
 
 4. For continue training:
-python train.py -c datasets/custom_base/config.yaml  -m custom_base
+
+   python train.py -c datasets/custom_base/config.yaml  -m custom_base
 
 
-5. Inference Examples:
+6. Inference Examples:
    
    see inference_uz.ipynb
