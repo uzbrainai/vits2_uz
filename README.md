@@ -2,7 +2,7 @@
 #TTS model for Uzbek language
 
 1. Create audio folder and put wav files under dataset_uz folder. # "dataset_uz/audio"
-2. Download logs folder, put it under this path "datasets/custom_base" and unzip it. [Download here:](https://drive.google.com/file/d/1o1ksl9B3uWcOBzy97eYuOPVY2ysEyzcB/view?usp=drive_link)
+2. Download logs folder, put it under this path "datasets/custom_base" and unzip it. (trained weights are saved to that place) [Download here:](https://drive.google.com/file/d/1o1ksl9B3uWcOBzy97eYuOPVY2ysEyzcB/view?usp=drive_link)
 
 
 3. install required packages (for pytorch 2.0)
